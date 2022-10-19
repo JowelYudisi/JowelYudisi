@@ -9,3 +9,9 @@ Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto en grupo
 </br>
 
 ## Programas:
+
+## Redes Personales:
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/jowelyudisi)
+
+## Redes Empresa:
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/maybstudios)
