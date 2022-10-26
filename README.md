@@ -10,8 +10,11 @@ Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto en grupo
 
 ## Programas:
 
+
+
 ## Redes Personales:
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/jowelyudisi)
+[![Itch.Io](https://img.shields.io/badge/Itch.io-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=FA5C5C)](https://obitojowel.itch.io/)
 
 ## Redes Empresa:
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/maybstudios)
