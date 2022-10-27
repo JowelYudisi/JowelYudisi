@@ -22,7 +22,7 @@ Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto en grupo
 <br>
 [![Itch.Io](https://img.shields.io/badge/Itch.io-1CAAD9?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=005F9E)](https://obitojowel.itch.io/)
 <br>
-[![ArtStation](https://img.shields.io/badge/Artstation-AAAAAA?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000)](https://obitojowel.itch.io/)
+[![ArtStation](https://img.shields.io/badge/Artstation-AAAAAA?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000)](https://www.artstation.com/joelyudisi7)
 
 ## Redes Empresa:
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/maybstudios)
