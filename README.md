@@ -26,7 +26,7 @@ Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto con un c
 
 
 ## Concept Arts:
-<table style="width:100%">
+<table style="width:100">
   <tr>
   <td>
     <a href="https://www.artstation.com/joelyudisi7">
