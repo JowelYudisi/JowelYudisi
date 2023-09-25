@@ -2,9 +2,9 @@
 ### Game Designer and Concept Artist
 <br>
 <br>
-Soy un estudiante de Diseño de Videojuegos en el CEV, actualmente especializandome en Game Design, aunque también tengo mano para el concept. <br>
+Actualmente especializandome en Game Design, aunque también tengo mano para el concept. <br>
 
-Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto en grupo, de el cual encontraréis más información pulsando en el header o [aquí.](https://www.instagram.com/maybstudios/)
+Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto con un compañero.
 
 
 
@@ -24,12 +24,6 @@ Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto en grupo
 <br>
 [![ArtStation](https://img.shields.io/badge/Artstation-AAAAAA?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000)](https://www.artstation.com/joelyudisi7)
 
-## Redes Empresa:
-[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/maybstudios)
-<br>
-[![Twitter](https://img.shields.io/badge/Twitter-00BCB4?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=00B8FC)](https://twitter.com/MayBStudios)
-<br>
-[![Youtube](https://img.shields.io/badge/Youtube-E9E9E9?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=FF4F8B)](https://www.youtube.com/channel/UCopJhv2UhOQ2eM5PGWRUB2A)
 
 ## Concept Arts:
 <table style="width:100%">
