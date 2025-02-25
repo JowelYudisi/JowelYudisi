@@ -1,10 +1,10 @@
 # <a href= "https://www.instagram.com/maybstudios/?igshid=YmMyMTA2M2Y%3D"><img src="https://static.wikia.nocookie.net/tatsufannon/images/7/77/300px-Mangekyou_Sharingan_Kakashisv.png/revision/latest?cb=20110608155907&path-prefix=es" width=30></a> Hey, soy Joel Yudisi! <a href= "https://www.instagram.com/maybstudios/?igshid=YmMyMTA2M2Y%3D"><img src="https://static.wikia.nocookie.net/tatsufannon/images/7/77/300px-Mangekyou_Sharingan_Kakashisv.png/revision/latest?cb=20110608155907&path-prefix=es" width=30></a>
-### Game Designer and Concept Artist
+### Game Designer
 <br>
 <br>
-Actualmente especializandome en Game Design, aunque también tengo mano para el concept. <br>
+Actualmente especializandome en Game Design<br>
 
-Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto con un compañero.
+Ahora mismo, me encuentro en el desarrollo de un TFM en la U-Tad.
 
 
 
@@ -23,28 +23,3 @@ Ahora mismo, me encuentro en el desarrollo de una demo para un proyecto con un c
 [![Itch.Io](https://img.shields.io/badge/Itch.io-1CAAD9?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=005F9E)](https://obitojowel.itch.io/)
 <br>
 [![ArtStation](https://img.shields.io/badge/Artstation-AAAAAA?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000)](https://www.artstation.com/joelyudisi7)
-
-
-## Concept Arts:
-<table style="width:100">
-  <tr>
-  <td>
-    <a href="https://www.artstation.com/joelyudisi7">
-      <img src="https://cdnb.artstation.com/p/assets/images/images/047/515/629/large/joel-yudisi-obito-joelyudisi.jpg?1647791673")
-           </td>
-  <td>
-    <a href="https://www.artstation.com/joelyudisi7">
-      <img src="https://cdnb.artstation.com/p/assets/images/images/046/543/987/large/joel-yudisi-obito-greyscale-done-1.jpg?1645380778")
-           </td>
-           </tr>
-  <tr>
-  <td>
-    <a href="https://www.artstation.com/joelyudisi7">
-      <img src="https://cdna.artstation.com/p/assets/images/images/050/240/740/original/joel-yudisi-obito-t4joelyudisi.gif?1654392544")
-           </td>
-  <td>
-    <a href="https://www.artstation.com/joelyudisi7">
-      <img src="https://cdnb.artstation.com/p/assets/images/images/043/845/483/large/joel-yudisi-posion-terminada.jpg?1638402273")
-           </td>
-           </tr>
-           
