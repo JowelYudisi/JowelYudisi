@@ -2,9 +2,8 @@
 ### Game Designer
 <br>
 <br>
-Actualmente especializandome en Game Design<br>
+Actualmente especializandome en Narrative Design<br>
 
-Ahora mismo, me encuentro en el desarrollo de un TFM en la U-Tad.
 
 
 
